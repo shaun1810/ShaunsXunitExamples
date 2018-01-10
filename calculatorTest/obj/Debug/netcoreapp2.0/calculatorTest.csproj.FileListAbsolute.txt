@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Pluralsight resources\xUnitExcersise\calculatorTest\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\User\Documents\Pluralsight resources\xUnitExcersise\calculatorTest\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\User\Documents\Pluralsight resources\xUnitExcersise\calculatorTest\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\User\Documents\Pluralsight resources\xUnitExcersise\calculatorTest\bin\Debug\netcoreapp2.0\calculatorTest.deps.json
+C:\Users\User\Documents\Pluralsight resources\xUnitExcersise\calculatorTest\bin\Debug\netcoreapp2.0\calculatorTest.runtimeconfig.json
+C:\Users\User\Documents\Pluralsight resources\xUnitExcersise\calculatorTest\bin\Debug\netcoreapp2.0\calculatorTest.runtimeconfig.dev.json
+C:\Users\User\Documents\Pluralsight resources\xUnitExcersise\calculatorTest\bin\Debug\netcoreapp2.0\calculatorTest.dll
+C:\Users\User\Documents\Pluralsight resources\xUnitExcersise\calculatorTest\bin\Debug\netcoreapp2.0\calculatorTest.pdb
+C:\Users\User\Documents\Pluralsight resources\xUnitExcersise\calculatorTest\obj\Debug\netcoreapp2.0\calculatorTest.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Pluralsight resources\xUnitExcersise\calculatorTest\obj\Debug\netcoreapp2.0\calculatorTest.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Pluralsight resources\xUnitExcersise\calculatorTest\obj\Debug\netcoreapp2.0\calculatorTest.AssemblyInfo.cs
+C:\Users\User\Documents\Pluralsight resources\xUnitExcersise\calculatorTest\obj\Debug\netcoreapp2.0\calculatorTest.dll
+C:\Users\User\Documents\Pluralsight resources\xUnitExcersise\calculatorTest\obj\Debug\netcoreapp2.0\calculatorTest.pdb
+C:\Users\User\Documents\Pluralsight resources\xUnitExcersise\calculatorTest\bin\Debug\netcoreapp2.0\calculator.dll
+C:\Users\User\Documents\Pluralsight resources\xUnitExcersise\calculatorTest\bin\Debug\netcoreapp2.0\calculator.pdb
